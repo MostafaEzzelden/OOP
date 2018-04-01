@@ -1,7 +1,13 @@
 {
+    "name": "mostafa.ezaldeen/oop",
+    "authors": [{
+        "name": "MostafaEzzelden",
+        "email": "bullet.traitor@gmail.com"
+    }],
     "autoload": {
         "psr-4": {
             "Acme\\": "app"
         }
-    }
+    },
+    "require": {}
 }
